@@ -1,4 +1,4 @@
-# Fire Sensing Project using ESP8266 and Mobile App Control
+# Fire Sensing Project using ESP8266
 
 The Fire Sensing Project is a system that employs an ESP8266 microcontroller to monitor temperature and the presence of fire through an infrared (IR) sensor. It includes an alarm feature and serves the data to a mobile app for control and monitoring. This README provides an overview of the project structure and its functionality, using the provided code as source material.
 
